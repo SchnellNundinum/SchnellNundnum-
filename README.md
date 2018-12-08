@@ -1,4 +1,4 @@
-# SchnellNundnum-
+# sofortNundnum-
 SchnellNundnum 
 # /commons/types.go 
 const ( 
